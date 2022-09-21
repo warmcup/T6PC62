@@ -1,1 +1,2 @@
 bienvenidos a nuestro repositorio! -juan
+esto es una prueba de la funcionalidad de github para proyectos colaborativos con control de versiones -juan

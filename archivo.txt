@@ -2,4 +2,3 @@ bienvenidos a nuestro repositorio! -juan
 esto es una prueba de la funcionalidad de github para proyectos colaborativos con control de versiones -juan
 Commit #1 de prueba para probar la funcionalidad de Github -Angel 
 Commit #2 para probar la funcionalidad de Repositorios Compartidos en Github -Angel 
-Commit #3 para probar la funcionalidad de revertir -Angel 
